@@ -1,25 +1,29 @@
 # **Sistema Acadêmico - FCTE**
-Descrição do Projeto
+
+## **Descrição do Projeto**  
 Desenvolvimento de um sistema acadêmico para gerenciar alunos, disciplinas, professores, turmas, avaliações e frequência, utilizando os conceitos de orientação a objetos (herança, polimorfismo e encapsulamento) e persistência de dados em arquivos.
 
 
-Trabalho 1 - Sistema Acadêmico
-Dados do Aluno
+## **Trabalho 1 - Sistema Acadêmico**
+
+### **Dados do Aluno** 
 Nome completo: Evellyn de Sous Rocha
 Matrícula: 202045400
 Curso: Engenharia de software
 Turma: T06
 
-Instruções para Compilação e Execução
-Compilação:
+## **Instruções para Compilação e Execução**
+
+### **Compilação:**
 javac Main.java
 Ou compile todos os arquivos com:
 javac src/**/*.java
 
-Execução:
+### **Execução:**
 java Main
 
-Estrutura de Pastas:
+
+### **Estruturas de pastas:**
 /src
   /model            -> Contém as classes de domínio (Aluno, Disciplina, Turma, etc.)
   /controller       -> Lógica de controle e regras de negócio
@@ -28,11 +32,13 @@ Main.java           -> Ponto de entrada da aplicação
 
 
 
-Versão do JAVA utilizada:
+
+### **Versão do java utilizada:**
 Java 8 (versão 1.8.0_441)
 
 
-Vídeo de Demonstração
+
+### **Videos de demonstração:**
 https://youtu.be/qEDKGcHhyu4
 
 
