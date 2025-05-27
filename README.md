@@ -8,8 +8,11 @@ Desenvolvimento de um sistema acadêmico para gerenciar alunos, disciplinas, pro
 
 ### **Dados do Aluno** 
 Nome completo: Evellyn de Sous Rocha
+
 Matrícula: 202045400
+
 Curso: Engenharia de software
+
 Turma: T06
 
 ## **Instruções para Compilação e Execução**
