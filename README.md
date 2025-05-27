@@ -1,4 +1,4 @@
-Sistema Acadêmico - FCTE
+# **Sistema Acadêmico - FCTE**
 Descrição do Projeto
 Desenvolvimento de um sistema acadêmico para gerenciar alunos, disciplinas, professores, turmas, avaliações e frequência, utilizando os conceitos de orientação a objetos (herança, polimorfismo e encapsulamento) e persistência de dados em arquivos.
 
