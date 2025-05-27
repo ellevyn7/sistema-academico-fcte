@@ -52,13 +52,14 @@ Menu Principal:
 
 
 
-Cadastro de Aluno:
+
+### **Cadastro de alunos:**
 ![Tela de Cadastro](img/cadastro.png)
 
 Relatório de Frequência/Notas:
 Inserir Print 3
 
-Principais Funcionalidades Implementadas
+### **Funcionalidades implementadas:**
  Cadastro, listagem, matrícula e trancamento de alunos (Normais e Especiais)
  Cadastro de disciplinas e criação de turmas (presenciais e remotas)
  Matrícula de alunos em turmas, respeitando vagas e pré-requisitos
@@ -70,12 +71,13 @@ Principais Funcionalidades Implementadas
  Uso de herança, polimorfismo e encapsulamento
 
 
-Observações (Extras ou Dificuldades)
+### **observações:**
 
 Tive dificuldades com versões diferentes do Java. O código foi compilado em uma versão superior (Java 11+), mas minha máquina estava com o Java 8, o que gerou erros como UnsupportedClassVersionError. A solução foi compilar com a versão correta compatível com a máquina.
 
 rganização do projeto: Foi necessário organizar os arquivos seguindo uma estrutura de pastas (src/model, src/view, etc.), o que exigiu atenção aos pacotes e caminhos corretos para importar as classes.
 
 Uso de Git e Submódulos: Utilizei submódulos do Git para conectar este repositório ao repositório principal do professor. Foi um processo novo que exigiu compreensão de como fazer fork, clone, adicionar submódulos e fazer os commits corretamente para garantir que o professor tenha acesso ao histórico.
-Contato
+
+### **Contato:**
 evellynrocha.coz@gmail.com
